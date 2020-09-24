@@ -28,7 +28,7 @@ switch (reponse2) {
         break;
     case 1:
         console.log(`The anser was: "Faux"`)
-        break
+        break;
     default:
         console.log('bad choice')
 }
